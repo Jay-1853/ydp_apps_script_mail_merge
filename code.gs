@@ -1,5 +1,5 @@
 function MentorshipWelcomeEmails_Mentees() {
-    const sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('Sheet2'); // sheet name
+    const sheet = SpreadsheetApp.getActiveSpreadsheet().getSheetByName('YOUR_SHEET_NAME'); // sheet name
     const data = sheet.getDataRange().getValues();
     
     const fileId = "YOUR_FILE_ID_HERE";
