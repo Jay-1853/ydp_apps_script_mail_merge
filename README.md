@@ -30,5 +30,8 @@ The script reads data from `Sheet2`. The expected structure of the sheet:
 
 ![Mentee Sheet Format](https://github.com/Jay-1853/ydp_apps_script_mail_merge/blob/main/data_structure.png)
 
+## Flow Chart
+
+![Mentorship Email Flowchart](https://www.mermaidchart.com/raw/65e19709-e90a-48f1-b0ea-2a05b5b184ac?theme=light&version=v0.1&format=svg)
 
 
